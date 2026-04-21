@@ -2,6 +2,14 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+# Screenshots
+<div>
+<img height="400" src="https://github.com/isudiptodas/POP-React_Native_Game/blob/main/assets/images/screenshots/pop1.jpg"/>
+<img height="400" src="https://github.com/isudiptodas/POP-React_Native_Game/blob/main/assets/images/screenshots/pop3.jpg"/>
+<img height="400" src="https://github.com/isudiptodas/POP-React_Native_Game/blob/main/assets/images/screenshots/pop2.jpg"/>
+<img height="400" src="https://github.com/isudiptodas/POP-React_Native_Game/blob/main/assets/images/screenshots/pop4.jpg"/>
+</div>
+
 ## Get started
 
 1. Install dependencies
