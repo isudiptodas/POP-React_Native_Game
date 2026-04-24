@@ -1,8 +1,7 @@
-# Welcome to your Expo app 👋
+## Pop The Balls
+Download android apk -> https://expo.dev/artifacts/eas/vmeBqtePWR9VBuiw2Eho5S.apk
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-# Screenshots
+## Screenshots
 <div>
 <img height="400" src="https://github.com/isudiptodas/POP-React_Native_Game/blob/main/assets/images/screenshots/pop1.jpg"/>
 <img height="400" src="https://github.com/isudiptodas/POP-React_Native_Game/blob/main/assets/images/screenshots/pop3.jpg"/>
